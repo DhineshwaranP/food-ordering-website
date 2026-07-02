@@ -1,0 +1,14 @@
+node_modules/
+dist/
+frontend/dist/
+backend/uploads/
+
+.env
+backend/.env
+frontend/.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+.codex-run/
